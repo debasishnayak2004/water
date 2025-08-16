@@ -1,0 +1,73 @@
+
+        .top-bar {
+      background-color: #0e1621;
+      color: #fff;
+      font-size: 14px;
+    }
+    .contact-icon {
+      color: #ff5c1c;
+      font-size: 20px;
+      margin-right: 8px;
+    }
+
+    .contact-info i {
+      color: #ff4a08;
+      font-size: 24px;
+      margin-right: 8px;
+    }
+    .contact-info small {
+      color: gray;
+      display: block;
+      font-size: 13px;
+    }
+    .navbar-nav .nav-link {
+      font-weight: 600;
+      text-transform: uppercase;
+      margin: 0 8px;
+    }
+    .nav-link.active {
+      color: #ff4a08 !important;
+    }
+    .quote-btn {
+      background-color: #ff4a08;
+      color: white;
+      font-weight: 600;
+      padding: 10px 18px;
+    }
+    .quote-btn:hover {
+      background-color: #e34406;
+      color: #fff;
+    }
+    .hero h1{
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-weight: 900 !important;
+    font-size: 50px;
+    }
+        .hero p{
+    word-spacing: 5px;
+    }
+    .why-choose-icons h6{
+        font-size: 26px;
+        padding-left: 15px;
+    }
+    .why-choose-icons{
+        font-size: 26px;
+    }
+    .why-choose-image{
+        margin-bottom: -50px;
+    }
+    .check-box i{
+        font-size: 4rem;
+        color: #ff5e14;
+    }
+    .check-box{
+        display: flex;
+    }
+    .check-box div{
+        padding-left: 20px;
+        text-align: left;
+    }
+    .check-box div h4{
+        font-size: 2rem;
+    }
